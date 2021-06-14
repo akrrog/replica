@@ -28,6 +28,8 @@ Every directory contains a separate readme file with more information about the 
 
 ## Requirements
 
+**NOTE:** Consult the [`./docs/REQUIREMENTS.md` document](./docs/REQUIREMENTS.md) for dependency version details and installation instructions.
+
 The Replica.one build system depends on the following software:
 
 * [GNU make](https://www.gnu.org/software/make/)
@@ -37,8 +39,6 @@ The Replica.one build system depends on the following software:
 Additional recommended software:
 
 * [Git](https://git-scm.com/)
-
-For more information on the requirements and how to set up the host system, consult the [`./docs/REQUIREMENTS.md` document](./docs/REQUIREMENTS.md).
 
 ## License
 
